@@ -1,7 +1,7 @@
 {
-"companyName": "DefaultCompany",
+"companyName": "Daphna Beljavskij",
 "productName": "3D Origami",
-"productVersion": "0.1",
+"productVersion": "0.3",
 "dataUrl": "3D-Origami-Web.data.unityweb",
 "wasmCodeUrl": "3D-Origami-Web.wasm.code.unityweb",
 "wasmFrameworkUrl": "3D-Origami-Web.wasm.framework.unityweb",
