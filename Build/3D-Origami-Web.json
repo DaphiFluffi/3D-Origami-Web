@@ -1,7 +1,7 @@
 {
 "companyName": "DefaultCompany",
 "productName": "3D Origami",
-"productVersion": "0.2",
+"productVersion": "0.1",
 "dataUrl": "3D-Origami-Web.data.unityweb",
 "wasmCodeUrl": "3D-Origami-Web.wasm.code.unityweb",
 "wasmFrameworkUrl": "3D-Origami-Web.wasm.framework.unityweb",
